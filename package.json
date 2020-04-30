@@ -34,7 +34,7 @@
         "firebase": "^7.6.2",
         "firebase-admin": "^8.9.0",
         "git-auto-pull": "^1.0.9",
-        "jquery": "3.4.1",
+        "jquery": "3.5.0",
         "require": "^2.4.20",
         "uniq": "^1.0.1",
         "uniqid": "^5.2.0"

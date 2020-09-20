@@ -1,68 +1,40 @@
-# [Start Bootstrap - The Big Picture](https://startbootstrap.com/template-overviews/the-big-picture/)
+# Food for Thought
 
-[The Big Picture](http://startbootstrap.com/template-overviews/the-big-picture/) is a responsive HTML template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The template features a full page background image and a fixed bottom navigation bar.
+Incentivizing restaurants and grocery stores to reduce food waste
 
-## Preview
+## Inspiration
 
-[![The Big Picture Preview](https://startbootstrap.com/assets/img/templates/the-big-picture.jpg)](https://blackrockdigital.github.io/startbootstrap-the-big-picture/)
+Canada wastes an estimated $31 billion worth of food each year, that is about 40 per cent of all the food produced. The leading cause for food waste turns out to be supermarkets and restaurants displaying large quantities of products that reach their sell-by date before being sold. This inspired us to create a website that rewards restaurants and grocery stores that are sustainable with their food waste.
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-the-big-picture/)**
+## What it does
 
-## Status
+Restaurants and grocery stores can donate food for nearby food banks to pick up. The food bank will then assess the actual used/useful food amount and document it to the leaderboard. The donation information is publicly available for customers to see, which allows customers to also support sustainable restaurants if they wish.
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-the-big-picture/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-the-big-picture.svg)](https://www.npmjs.com/package/startbootstrap-the-big-picture)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-the-big-picture.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-the-big-picture)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-the-big-picture/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-the-big-picture)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-the-big-picture/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-the-big-picture?type=dev)
+## How we built it
 
-## Download and Installation
+We used html/css/bootstrap for front-end and firebase/firestore for back end and data management.
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/the-big-picture/)
-* Install via npm: `npm i startbootstrap-the-big-picture`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-the-big-picture.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-the-big-picture)
+## Challenges we ran into
 
-## Usage
+All our members were using unfamiliar languages which sometimes made us take a considerable amount of time completing simple tasks. Examples: setting up firebase, utilizing local storage (parsing JSON files), Jquery (automating leaderboard), etc.
 
-### Basic Usage
+## Accomplishments that we're proud of
 
-After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
+We are proud of how complete our product is. We all equally worked very hard, and was able to bring the product to near finish.
 
-### Advanced Usage
+## What we learned
 
-After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+We developed better understandings of Javascript, Firebase, and local storage.
 
-You must have npm and Gulp installed globally on your machine in order to use these features.
+## Built With
 
-## Bugs and Issues
+`bootstrap`
+`css3`
+`firebase`
+`firestore`
+`google-maps`
+`html5`
+`javascript`
+`jquery`
+`json`
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-the-big-picture/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/the-big-picture/).
-
-## About
-
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
-
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
-
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
-
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
-
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
-
-## Copyright and License
-
-Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-the-big-picture/blob/gh-pages/LICENSE) license.
-
-
-
-Presentation
-
-4 million people in Canada experience food insecurity. 1 in 8 Canadian households struggle to put food on the table. 
-Also, food banks will often pick up donations free of charge.
-Restaurants have incentive to donate food - customers can see how effective restaurants are with their food waste
